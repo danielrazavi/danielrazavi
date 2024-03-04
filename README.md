@@ -1,4 +1,4 @@
-# Hi hi! 👋
+# hi hi! 👋
 
 Hi there! I'm Daniel Razavi, a Software Developer based in Toronto currently working at [the University of Toronto Data Science Institute](https://datasciences.utoronto.ca). With experience at [Amazon](https://www.aboutamazon.ca/about-us) and [Environment Climate Change Canada](https://www.canada.ca/en/environment-climate-change.html), I also have a background in teaching at the [University of Toronto campuses](https://www.utoronto.ca). My tech journey began at [the University of Toronto Mississauga](https://www.utm.utoronto.ca), majoring in Computer Science with minors in Mathematics and Statistics.
 
